@@ -11,9 +11,7 @@ def convertionFunc(binaryNum, baseNum):
         x *= baseNum
     return decimalNum
 
-def askPros():
-        num = input("Enter a number: ")
-        base = int(input("Enter a base for your number: "))
-        print(convertionFunc(num, base))
-        askPros()
-askPros()
+while True>
+    num = input("Enter a number: ")
+    base = int(input("Enter a base for your number: "))
+    print(convertionFunc(num, base))
