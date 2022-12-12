@@ -9,7 +9,7 @@ def convertionFunc(binaryNum, baseNum):
         x *= baseNum
     return decimalNum
 
-while True>
+while True:
     num = input("Enter a number: ")
     base = int(input("Enter a base for your number: "))
     print(convertionFunc(num, base))
