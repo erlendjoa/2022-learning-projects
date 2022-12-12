@@ -1,5 +1,3 @@
-
-
 def convertionFunc(binaryNum, baseNum):
     decimalNum = 0
     x = 1
